@@ -214,8 +214,6 @@ The application contains:
 
 Expense-Tracker/
 
-│
-
 ├── index.html
 
 ├── style.css
